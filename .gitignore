@@ -1,0 +1,17 @@
+node_modules/
+frontend/node_modules/
+api/node_modules/
+
+mysql-data/
+*.sql
+
+frontend/dist/
+
+.DS_Store
+Thumbs.db
+
+.env
+.env.local
+
+*.log
+npm-debug.log*
